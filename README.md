@@ -3,4 +3,4 @@
 ### multi3
 
 + Github class
-멀티미디어학과 *
+멀티미디어학과 *Github* 수업
